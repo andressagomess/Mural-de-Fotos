@@ -1,0 +1,26 @@
+body{
+  background-color: pink;
+}
+
+h1{
+  font-family: 'Style Script', cursive;
+  font-size: 50px;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+li {
+    height: 40vh;
+    flex-grow: 1;
+  }
+
+img {
+    max-height: 100%;
+    min-width: 100%;
+    object-fit: cover;
+    vertical-align: bottom; 
+}
+
