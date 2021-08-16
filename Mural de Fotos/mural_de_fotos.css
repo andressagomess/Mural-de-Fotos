@@ -24,3 +24,10 @@ img {
     vertical-align: bottom; 
 }
 
+footer{
+  background-color: purple;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
